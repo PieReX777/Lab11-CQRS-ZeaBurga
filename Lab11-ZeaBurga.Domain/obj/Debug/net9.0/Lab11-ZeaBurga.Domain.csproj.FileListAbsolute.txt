@@ -1,0 +1,11 @@
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Domain\bin\Debug\net9.0\Lab11-ZeaBurga.Domain.deps.json
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Domain\bin\Debug\net9.0\Lab11-ZeaBurga.Domain.dll
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Domain\bin\Debug\net9.0\Lab11-ZeaBurga.Domain.pdb
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Domain\obj\Debug\net9.0\Lab11-ZeaBurga.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Domain\obj\Debug\net9.0\Lab11-ZeaBurga.Domain.AssemblyInfoInputs.cache
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Domain\obj\Debug\net9.0\Lab11-ZeaBurga.Domain.AssemblyInfo.cs
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Domain\obj\Debug\net9.0\Lab11-ZeaBurga.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Domain\obj\Debug\net9.0\Lab11-ZeaBurga.Domain.dll
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Domain\obj\Debug\net9.0\refint\Lab11-ZeaBurga.Domain.dll
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Domain\obj\Debug\net9.0\Lab11-ZeaBurga.Domain.pdb
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Domain\obj\Debug\net9.0\ref\Lab11-ZeaBurga.Domain.dll

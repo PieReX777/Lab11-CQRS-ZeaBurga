@@ -1,0 +1,15 @@
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\bin\Debug\net9.0\Lab11-ZeaBurga.Application.deps.json
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\bin\Debug\net9.0\Lab11-ZeaBurga.Application.dll
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\bin\Debug\net9.0\Lab11-ZeaBurga.Application.pdb
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\bin\Debug\net9.0\Lab11-ZeaBurga.Domain.dll
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\bin\Debug\net9.0\Lab11-ZeaBurga.Domain.pdb
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\obj\Debug\net9.0\Lab11-ZeaBurga.Application.csproj.AssemblyReference.cache
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\obj\Debug\net9.0\Lab11-ZeaBurga.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\obj\Debug\net9.0\Lab11-ZeaBurga.Application.AssemblyInfoInputs.cache
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\obj\Debug\net9.0\Lab11-ZeaBurga.Application.AssemblyInfo.cs
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\obj\Debug\net9.0\Lab11-ZeaBurga.Application.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\obj\Debug\net9.0\Lab11-Ze.C011E54D.Up2Date
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\obj\Debug\net9.0\Lab11-ZeaBurga.Application.dll
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\obj\Debug\net9.0\refint\Lab11-ZeaBurga.Application.dll
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\obj\Debug\net9.0\Lab11-ZeaBurga.Application.pdb
+C:\Users\joaqu\OneDrive\Escritorio\VI-CICLO\DesApliEmpreAvanzado\Semana11\Lab11-ZeaBurga\Lab11-ZeaBurga.Application\obj\Debug\net9.0\ref\Lab11-ZeaBurga.Application.dll

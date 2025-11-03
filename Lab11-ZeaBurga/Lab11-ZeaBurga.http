@@ -1,0 +1,6 @@
+@Lab11_ZeaBurga_HostAddress = http://localhost:5212
+
+GET {{Lab11_ZeaBurga_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
