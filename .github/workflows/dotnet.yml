@@ -1,0 +1,44 @@
+# Este flujo de trabajo compilará y publicará el proyecto .NET 9
+name: Build and Deploy .NET Application
+
+on:
+  push:
+    branches: [ "main" ] # Se ejecuta automáticamente al hacer push a main
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Descargar tu código del repositorio
+    - name: Check out code
+      uses: actions/checkout@v4
+
+    # 2. Configurar el entorno para .NET 9 (¡CRÍTICO para tu proyecto!)
+    - name: Set up .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 9.0.x
+
+    # 3. Restaurar librerías (NuGet)
+    - name: Restore dependencies
+      run: dotnet restore
+
+    # 4. Compilar la aplicación (Build)
+    - name: Build application
+      run: dotnet build --no-restore --configuration Release
+
+    # 5. Publicar la aplicación (Generar los archivos finales)
+    # Este paso crea la carpeta 'published' lista para ser llevada a un servidor
+    - name: Publish application
+      run: dotnet publish --configuration Release --output ./published
+
+    # 6. Despliegue (Simulado)
+    # La guía original incluía un comando 'scp' que fallaría sin un servidor real.
+    # Dejamos este paso imprimiendo un mensaje para cumplir con la estructura sin generar errores rojos.
+    - name: Deploy to server (Simulación)
+      run: |
+        echo "Listo para desplegar. Los archivos están en la carpeta ./published"
+        ls -la ./published
